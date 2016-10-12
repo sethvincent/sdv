@@ -1,0 +1,40 @@
+{
+  "name": "sdv",
+  "version": "1.0.0",
+  "description": "My personal file copier for creating & maintaining npm packages.",
+  "main": "index.js",
+  "bin": {
+    "sdv": "index.js"
+  },
+  "scripts": {
+    "deps": "dependency-check . && dependency-check . --unused --no-dev && ncu",
+    "lint": "standard",
+    "test:no-lint": "node tests/*.js | tap-spec",
+    "test": "npm run lint && npm run test:no-lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sethvincent/sdv.git"
+  },
+  "author": "sethvincent",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sethvincent/sdv/issues"
+  },
+  "homepage": "https://github.com/sethvincent/sdv#readme",
+  "dependencies": {
+    "each-async": "^1.1.1",
+    "exit": "^0.1.2",
+    "maxstache-stream": "^1.0.4",
+    "mkdirp": "^0.5.1",
+    "subcommand": "^2.0.3"
+  },
+  "devDependencies": {
+    "array-equal": "^1.0.0",
+    "documentation": "^4.0.0-beta11",
+    "rimraf": "^2.5.4",
+    "standard": "^8.4.0",
+    "tap-spec": "^4.1.1",
+    "tape": "^4.6.2"
+  }
+}
