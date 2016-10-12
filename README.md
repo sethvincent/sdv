@@ -5,6 +5,7 @@ My personal file copier for creating & maintaining npm packages.
 [![npm][npm-image]][npm-url]
 [![travis][travis-image]][travis-url]
 [![standard][standard-image]][standard-url]
+[![conduct][conduct]][conduct-url]
 
 [npm-image]: https://img.shields.io/npm/v/sdv.svg?style=flat-square
 [npm-url]: https://www.npmjs.com/package/sdv
@@ -12,6 +13,8 @@ My personal file copier for creating & maintaining npm packages.
 [travis-url]: https://travis-ci.org/sethvincent/sdv
 [standard-image]: https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat-square
 [standard-url]: http://npm.im/standard
+[conduct]: https://img.shields.io/badge/code%20of%20conduct-contributor%20covenant-green.svg?style=flat-square
+[conduct-url]: CONDUCT.md
 
 ## About
 
