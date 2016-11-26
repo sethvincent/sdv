@@ -1,5 +1,7 @@
 # {{package}}
 
+
+
 [![npm][npm-image]][npm-url]
 [![travis][travis-image]][travis-url]
 [![standard][standard-image]][standard-url]
@@ -15,6 +17,8 @@
 [conduct-url]: CONDUCT.md
 
 ## About
+
+
 
 ## Install
 
@@ -35,7 +39,7 @@ npm install --save {{package}}
 - [Tests](tests/)
 
 ### Examples
-- [Basic example](examples/basic.js)
+- [Basic example](examples/basic-usage.js)
 
 ## Contributing
 
@@ -43,9 +47,9 @@ Contributions are welcome! Please read the [contributing guidelines](CONTRIBUTIN
 
 ## Conduct
 
-It is important that this project contributes to a friendly, safe, and welcoming environment for all. Read this project's [code of conduct](CONDUCT.md)
+It's important that this project contributes to a friendly, safe, and welcoming environment for all, particularly for folks that are historically underrepresented in technology. Read this project's [code of conduct](CONDUCT.md)
 
-## Changelog
+## Change log
 
 Read about the changes to this project in [CHANGELOG.md](CHANGELOG.md). The format is based on [Keep a Changelog](http://keepachangelog.com/) and this project adheres to [Semantic Versioning](http://semver.org/).
 
@@ -53,7 +57,7 @@ Read about the changes to this project in [CHANGELOG.md](CHANGELOG.md). The form
 
 - **chat** – You can chat about this project at [{{chat}}]({{chat}})
 - **issues** – Please open issues in the [issues queue](https://github.com/{{github}}/{{package}}/issues)
-- **twitter** – Have a question? [@{{twitter}}](https://twitter.com/{{twitter}})
+- **twitter** – [@{{twitter}}](https://twitter.com/{{twitter}})
 - **email** – Need in-depth support via paid contract? Send an email to {{email}}
 
 ## License

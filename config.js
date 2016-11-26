@@ -3,6 +3,7 @@ module.exports = {
     name: 'Seth Vincent',
     email: 'sethvincent@gmail.com',
     twitter: 'sethdvincent',
-    github: 'sethvincent'
+    github: 'sethvincent',
+    chat: 'http://gitter.im/sethvincent/ask'
   }
 }

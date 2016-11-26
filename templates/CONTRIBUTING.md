@@ -4,11 +4,11 @@
 
 - Familiarity with [GitHub pull requests](https://help.github.com/articles/using-pull-requests) and issues.
 - Knowledge of [markdown](https://help.github.com/articles/markdown-basics/) for editing `.md` documents.
-- Understanding of JavaScript.
+- Understanding of or interest in learning technologies used in this project.
 
 ## Types of contributions
 
-Here are a few of the types of contributions that we're looking for. Have an idea but it doesn't fit into this list? Make an issue for it in the issues queue of the project.
+Here are a few of the types of contributions that we're looking for. Have an idea but it doesn't fit into this list? [Let us know!](README.md#contact).
 
 ### Ideas
 
@@ -24,7 +24,7 @@ Fix issues or contribute new features to this or any related projects.
 
 ### Writing
 
-Contribute your expertise in an area by helping us expand the text in the application, README.md file, and other content.
+Contribute your expertise in an area by helping us write the API docs in the code, README.md file, and other documentation.
 
 ### Copy editing
 
@@ -39,39 +39,34 @@ Fix typos, clarify language, and generally improve the quality of the content.
 
 ## Conduct
 
-We are committed to providing a friendly, safe, and welcoming environment for
-all, regardless of gender, sexual orientation, disability, ethnicity, religion,
-or similar personal characteristic.
+In the interest of fostering an open and welcoming environment, we as
+contributors and maintainers pledge to making participation in our project and
+our community a harassment-free experience for everyone, regardless of age, body
+size, disability, ethnicity, gender identity and expression, level of experience,
+nationality, personal appearance, race, religion, or sexual identity and
+orientation.
 
-Be kind and courteous. There's no need to be mean or rude.
-Respect that people have differences of opinion and that every design or
-implementation choice carries a trade-off and numerous costs. There is seldom
-a right answer, merely an optimal answer given a set of values and
-circumstances.
+We encourage:
 
-Keep unstructured critique to a minimum. If you have solid ideas you
-want to experiment with, make a fork and see how it works.
+- A safe and respectful environment for all participants.
+- A place where people are free to fully express their identities.
+- Asking questions and avoiding the assumption that everyone has the same context, background, or interests.
+- Finding ways for people to be productive with their skills and energy and facilitating this through language of “yes/and”, not “no/but.”
+- Encouraging members and participants to listen as much as they speak.
+- Striving to build tools that are open for public use. Activities that aim to foster public use, not private gain, are prioritized.
+- Ensuring that the relationships and conversations between community members remain respectful, participatory, and productive.
 
-Avoid using overtly sexual nicknames or other nicknames that
-might detract from a friendly, safe and welcoming environment for all.
-
-We will exclude you from interaction if you insult, demean or harass anyone.
-That is not welcome behavior. We interpret the term "harassment" as
-including the definition in the
-[Citizen Code of Conduct](CONDUCT.md);
-if you have any lack of clarity about what might be included in that concept,
-please read their definition. In particular, we don't tolerate behavior that
+We will exclude you from interaction if you insult, demean, or harass anyone. In particular, we don't tolerate behavior that
 excludes people in socially marginalized groups.
 
-Private harassment is also unacceptable. No matter who you are, if you feel
-you have been or are being harassed or made uncomfortable by a community
-member, please contact one of the channel ops or any of the core team
-immediately. Whether you're a regular contributor or a newcomer, we care about
+If you are unsure what behavior is welcome, the [code of conduct has clear guidelines](CONDUCT.md).
+
+Private harassment is also unacceptable. No matter who you are, if you feel you have been or are being harassed or made uncomfortable by a community member, please contact one of the project maintainers. Whether you're a regular contributor or a newcomer, we care about
 making this community a safe place for you and we've got your back.
 
-Likewise any spamming, trolling, flaming, baiting or other attention-stealing
-behavior is not welcome.
+Likewise any spamming, trolling, flaming, baiting or other attention-stealing behavior is not welcome.
 
+### [Read the code of conduct for more information](CONDUCT.md)
 
 ## Communication
 
